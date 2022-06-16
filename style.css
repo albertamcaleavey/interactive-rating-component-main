@@ -10,9 +10,10 @@
 }
 
 .numbers-container > div {
-  color: hsl(217, 12%, 63%);
+  color: hsl(216, 12%, 54%);
   border-radius: 50px;
   padding: 2%;
+  background-color: hsl(217, 12%, 63%);
 }
 
 button {
@@ -25,9 +26,9 @@ button {
 }
 
 h2 {
-  color: hsl(0, 0%, 100%);
+  color: hsl(216, 12%, 54%);
 }
 
 p {
-  color: hsl(217, 12%, 63%);
+  color: hsl(216, 12%, 54%);
 }
